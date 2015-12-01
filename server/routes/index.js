@@ -11,7 +11,7 @@ module.exports = {
 
     
     app.post('/registerEmailJournalist', controllers.registrar.registerEmailJournalist);
-    app.post('/registerEmailPolitician', controllers.registrar.registerEmailPolitician); 
+    app.post('/registerEmailPolitician', controllers.registrar. registerEmailPolitician); 
 
     
   }
